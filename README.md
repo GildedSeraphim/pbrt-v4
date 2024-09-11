@@ -109,7 +109,7 @@ As before, pbrt uses git submodules for a number of third-party libraries
 that it depends on.  Therefore, be sure to use the `--recursive` flag when
 cloning the repository:
 ```bash
-$ git clone --recursive https://github.com/mmp/pbrt-v4.git
+$ git clone --recursive https://github.com/GildedSeraphim/pbrt-v4.git
 ```
 
 If you accidentally clone pbrt without using ``--recursive`` (or to update
